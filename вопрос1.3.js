@@ -1,2 +1,3 @@
-let str=`HELLO`;
-console.log(str[0])
+for(let char of "HELLO") { 
+console.log(char);
+}
